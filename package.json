@@ -1,0 +1,6 @@
+{
+  "name": "nx-auto-lockfile-removal",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "devDependencies": { "nx": "24.0.4" }
+}
