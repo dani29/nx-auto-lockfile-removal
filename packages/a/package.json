@@ -1,6 +1,7 @@
 {
   "name": "a",
   "version": "0.0.0",
-  "dependencies": { "ms": "2.1.2" },
-  "scripts": { "test": "echo a" }
+  "scripts": {
+    "test": "echo a"
+  }
 }
